@@ -6,7 +6,7 @@ Com ele é possível operações de soma, subtração, multiplicação e divisã
 
 Para vê-lo em ação, acesse o link: https://calculadora-em-react-five.vercel.app/
 
-O site foi criado em conjunto com o curso na Udemy "Curso Web Moderno Completo com JavaScript + Projetos"
+O site foi criado em conjunto com o curso na Udemy "Curso Web Moderno Completo com JavaScript + Projetos" mais a plataforma CodeSandbox
 
 ## Requisitos
 Para instalação e utilização do projeto em sua máquina é necessário ter instalado NodeJs e, a partir do Node, instalar create react app
